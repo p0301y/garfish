@@ -31,7 +31,7 @@ Garfish.setExternal('vue', Vue);
 > 子应用
 
 ```js
-// 主应用 webpack 配置
+// 子应用 webpack 配置
 module.exports = {
   output: {
     // 需要配置成 umd 规范
